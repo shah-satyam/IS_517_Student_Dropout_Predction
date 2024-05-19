@@ -66,5 +66,5 @@ class.
    - Compare performance metrics for each combination.
    - Determine the best approach based on empirical evidence.
 
-_Note: Detailed project explanation is present in the [Project Report](IS_517_Project Report.pdf)_.
-_The final report is based on the results form the following execution fo the analysis notebook: [Execution Results](IS_517_Project Report.pdf)_
+_Note: Detailed project explanation is present in the [Project Report](IS_517_Project%20Report.pdf)_.
+_The final report is based on the results form the following execution fo the analysis notebook: [Execution Results](IS_517_Project%20Report.pdf)_
